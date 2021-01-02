@@ -1,6 +1,6 @@
 # powerline-gitstatus-.config
 
-![Imgur](ttps://i.imgur.com/48CChCM.png)
+![Imgur](https://i.imgur.com/48CChCM.png)
 
 Working .config folder for powerline-gitstatus (decided to upload after seeing many problems online with configs not working):
 
