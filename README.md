@@ -1,1 +1,3 @@
 # powerline-gitstatus-.config
+
+.
