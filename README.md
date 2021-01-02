@@ -12,7 +12,7 @@ Perform a standard install of powerline and powerline-gitstatus as per their ori
 Once this is done, open your terminal (bash below) and follow the steps:
 
 ```
-.cd .config
+cd .config
 ```
 
 ```
