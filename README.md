@@ -1,4 +1,4 @@
-# powerline-gitstatus-.config
+# powerline-gitstatus .config
 
 ![Imgur](https://i.imgur.com/48CChCM.png)
 
