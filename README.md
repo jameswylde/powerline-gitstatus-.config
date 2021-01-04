@@ -9,7 +9,7 @@ powerline-gitstatus: https://github.com/jaspernbrouwer/powerline-gitstatus
 
 Perform a standard install of powerline and powerline-gitstatus as per their original documentation with any needed dependencies etc.
 
-Once this is done, open your terminal (bash below) and follow the steps:
+Once this is done, open your terminal and follow the below steps:
 
 ```
 cd .config
